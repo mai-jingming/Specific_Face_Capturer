@@ -1,2 +1,2 @@
 # Specific_Face_Capturer
-A programme to free your hands when collecting SRC dataset  for DFL
+一个能帮你在收集DFL的SRC素材时解放双手和时间的小程序
