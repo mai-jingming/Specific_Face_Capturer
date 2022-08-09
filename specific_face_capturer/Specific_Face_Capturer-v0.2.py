@@ -2,8 +2,8 @@
 """
 Created on Sat Jun 25 05:49:15 2022
 
-@author: Gottvonkarlberg
-github:
+# Author: https://www.dfldata.xyz/forum.php Gottvonkarlberg
+# github: https://github.com/mai-jingming/Specific_Face_Capturer
 """
 import face_recognition
 import time
